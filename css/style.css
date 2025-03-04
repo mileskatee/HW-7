@@ -1,7 +1,7 @@
-.link-youtube, .link-validator {
+a[href^="https"] {
     color: #ff0000;
-}
+    }
 
-.p-lorem-ipsum {
+ul + p {
     font-size: 24px;
 }
